@@ -68,6 +68,11 @@
     margin-bottom: 10px;
 }
 
+.user-i {
+    background: #dcdcdc !important;
+    /*color: white !important;*/
+}
+
 .room-title {
     display: block;
     font-size: 20px;
@@ -84,12 +89,18 @@
 }
 
 .messages {
+    display: flex;
+    flex-direction: column;
     flex: 1;
     overflow: auto;
 }
 
 .message {
     margin-bottom: 10px;
+}
+
+.my-message {
+    align-self: flex-end;
 }
 
 .message p {
