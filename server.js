@@ -1,11 +1,12 @@
 const express = require('express')
-const mongoose = require('mongoose')
 
 const app = express()
 const server = require('http').Server(app)
 const io = require('socket.io')(server)
 
 app.use(express.json())
+
+const PORT = process.env.PORT || 9999
 let rooms = []
 
 app.get('/rooms/:id', (req, res) => {
@@ -57,6 +58,11 @@ io.on('connection', (socket) => {
     // console.log('user connected', socket.id);
 })
 
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('../build'))
+}
+
+
 async function start() {
     try {
         // await mongoose.connect(db, {
@@ -65,11 +71,11 @@ async function start() {
         //     useUnifiedTopology: true,
         //     useCreateIndex: true
         // })
-        server.listen(9999, (err) => {
+        server.listen(PORT, (err) => {
             if (err) {
                 throw Error(err);
             }
-            console.log('server has been started')
+            console.log(`server has been started at ${PORT}`)
         })
     } catch (e) {
         console.log(e)
