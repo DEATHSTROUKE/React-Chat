@@ -58,12 +58,11 @@ io.on('connection', (socket) => {
     // console.log('user connected', socket.id);
 })
 
-if (process.env.NODE_ENV === 'production') {
-    app.use(express.static('../build'))
-}
-
 
 async function start() {
+    // if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('client/build'))
+    // }
     try {
         // await mongoose.connect(db, {
         //     useNewUrlParser: true,

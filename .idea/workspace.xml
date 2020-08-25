@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e75acb6f-cdfd-49f1-b8ca-261dd2865aea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/precache-manifest.b3b6f283dbeec58a9370e51f21114a71.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/precache-manifest.7a450933792cc13f799eeee87ffd8816.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.e02a0d56.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/static/js/2.052e0f20.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.e02a0d56.chunk.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/static/js/2.052e0f20.chunk.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.e02a0d56.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/static/js/2.052e0f20.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.b995f645.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/static/js/main.d2e0e450.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.b995f645.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/static/js/main.d2e0e450.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g5JWk3v5q6hxFbkQNbeVKGOHdj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e75acb6f-cdfd-49f1-b8ca-261dd2865aea" name="Default Changelist" comment="" />
+      <created>1597398553659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597398553659</updated>
+      <workItem from="1597398555390" duration="4496000" />
+      <workItem from="1597781374443" duration="7870000" />
+      <workItem from="1597827544767" duration="1730000" />
+      <workItem from="1597917724753" duration="1258000" />
+      <workItem from="1597919071984" duration="15835000" />
+      <workItem from="1597988089601" duration="2750000" />
+      <workItem from="1597994074137" duration="420000" />
+      <workItem from="1598008937053" duration="162000" />
+      <workItem from="1598009195464" duration="7000" />
+      <workItem from="1598199487945" duration="896000" />
+      <workItem from="1598352235618" duration="4389000" />
+      <workItem from="1598357116406" duration="444000" />
+      <workItem from="1598357590471" duration="2018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598354258141">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="407" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1280.680@0.40.1280.680" timestamp="1598354258141" />
+    <state x="371" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597398780937">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="371" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1280.680@0.40.1280.680" timestamp="1597398780937" />
+    <state x="421" y="136" key="FileChooserDialogImpl" timestamp="1598009098178">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="421" y="136" key="FileChooserDialogImpl/0.40.1280.680@0.40.1280.680" timestamp="1598009098178" />
+    <state x="142" y="40" key="SettingsEditor" timestamp="1598199815013">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="142" y="40" key="SettingsEditor/0.40.1280.680@0.40.1280.680" timestamp="1598199815013" />
+    <state x="297" y="171" key="run.anything.popup" timestamp="1597925099248">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="297" y="171" key="run.anything.popup/0.40.1280.680@0.40.1280.680" timestamp="1597925099248" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1598358564740">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.40.1280.680@0.40.1280.680" timestamp="1598358564740" />
+  </component>
+</project>
